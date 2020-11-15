@@ -1,0 +1,7 @@
+Reflection
+
+Approx 5 hours spent on this assignment
+Most important skills worked on were parsing strings in C++ and practising some basic logical thinking.
+Additionally i must continue to get used to writing C++ code.
+I used information found on Stack overflow to assist me, but i made sure to only 
+replicate code that i undertood how and why to use.
